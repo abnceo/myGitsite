@@ -46,10 +46,11 @@
     gitsite-cli serve
     ```
 9. Mac上的几个DS_Store的文件，git显示这些文件未被track。今天在当前repo的根目录添加.gitignore的文件，添加各类需要git ignore的文件类型，最终直接copy使用xuefeng的这个文件即可，非常详细的列出了各种文件。
+10. 下一步： 如何在本地更新文章后，可以同步到这个静态的网站 - 在本地提交git之后，就直接生效了。
 
 
 
-### 我的 CentOS 7 Server :joy:
+### 我的 CentOS 7 Server
 1. centOS 7 版本太老，需要升级到centOS 9，在此之前先把之前的网站和服务进行备份。
 
 
