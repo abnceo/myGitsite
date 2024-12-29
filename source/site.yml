@@ -12,6 +12,8 @@ site:
   navigation:
     - title: User Guide
       uri: /books/gitsite-guide/index.html
+    - title: Python guide
+      uri: /books/python/index.html
     - title: Blogs
       uri: /blogs/tech/index.html
     - title: License
