@@ -12,7 +12,7 @@
 
 ## 工欲善其事，必先利其器
 
-### 我的 MacOS 12.7 :joy:
+### 在我的 MacOS 12.7上搭建gitsite
 1. 由于 https://gitsite.org 推荐的是npm的安装，macOS上又需要先安装HomeBrew。
 2. 在[Homebrew's official website](https://brew.sh/) 拷贝最新的安装命令并在终端运行。
 ![Install HomeBrew](homebrew-install.jpg)
@@ -45,6 +45,7 @@
     ```c
     gitsite-cli serve
     ```
+9. Mac上的几个DS_Store的文件，git显示这些文件未被track。今天在当前repo的根目录添加.gitignore的文件，添加各类需要git ignore的文件类型，最终直接copy使用xuefeng的这个文件即可，非常详细的列出了各种文件。
 
 
 

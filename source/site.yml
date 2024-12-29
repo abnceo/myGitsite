@@ -1,5 +1,5 @@
 site:
-  title: GitSite
+  title: Bryce's GitSite
   description: GitSite is a static web site generator for Git.
   keywords: gitsite, git, static web site, html
   theme: default
