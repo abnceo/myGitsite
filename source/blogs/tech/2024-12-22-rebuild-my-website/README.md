@@ -35,7 +35,7 @@
     ```c
     npm install -g gitsite-cli
     ```
-7. 此时本地新建好一个空的文件夹，开始安装gitsite：
+7. 此时本地新建好一个文件夹（我命名为gitsite），开始安装gitsite：
     ```c
     npm install -g gitsite-cli
     cd /Users/yonghua/Documents/repos/gitsite
@@ -45,8 +45,13 @@
     ```c
     gitsite-cli serve
     ```
-9. Mac上的几个DS_Store的文件，git显示这些文件未被track。今天在当前repo的根目录添加.gitignore的文件，添加各类需要git ignore的文件类型，最终直接copy使用xuefeng的这个文件即可，非常详细的列出了各种文件。
-10. 下一步： 如何在本地更新文章后，可以同步到这个静态的网站 - 在本地提交git之后，就直接生效了。
+9. 在本地创建git管理的repo，并推送到github：
+    - terminal中，在gitsite文件下，运行 git init
+    - 在github，新建一个空的repo，命名为 gitsite
+    - git push origin
+10. Mac上的几个DS_Store的文件，git显示这些文件未被track。今天在当前repo的根目录添加.gitignore的文件，添加各类需要git ignore的文件类型，最终直接copy使用xuefeng的这个文件即可，非常详细的列出了各种文件。
+11. 下一步： 如何在本地更新文章后，可以同步到这个静态的网站 - 在本地提交git之后，就直接生效了。
+12. 
 
 
 

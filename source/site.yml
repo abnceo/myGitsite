@@ -12,6 +12,8 @@ site:
   navigation:
     - title: User Guide
       uri: /books/gitsite-guide/index.html
+    - title: 职场英语
+      uri: /books/English/index.html
     - title: Python guide
       uri: /books/python/index.html
     - title: Blogs
