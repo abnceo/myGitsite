@@ -10,12 +10,18 @@ site:
   # set cdn path:
   cdn-path: https://cdn.jsdelivr.net/npm
   navigation:
-    - title: User Guide
-      uri: /books/gitsite-guide/index.html
+    - title: 公司IT Infra
+      uri: /books/Corp IT Infra/index.html
     - title: 职场英语
       uri: /books/English/index.html
+    - title: 产品岗位
+      uri: /books/PO and PM/index.html
+    - title: 美丽生活
+      uri: /books/life/index.html
     - title: Python guide
       uri: /books/python/index.html
+    - title: user guide
+      uri: /books/gitsite-guide/index.html
     - title: Blogs
       uri: /blogs/tech/index.html
     - title: License
