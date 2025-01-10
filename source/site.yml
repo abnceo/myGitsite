@@ -10,6 +10,8 @@ site:
   # set cdn path:
   cdn-path: https://cdn.jsdelivr.net/npm
   navigation:
+    - title: Productivity
+      uri: /books/productivity/index.html
     - title: Infra IT
       uri: /books/Corp IT Infra/index.html
     - title: 职场英语
