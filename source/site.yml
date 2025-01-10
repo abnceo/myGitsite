@@ -10,18 +10,22 @@ site:
   # set cdn path:
   cdn-path: https://cdn.jsdelivr.net/npm
   navigation:
-    - title: 公司IT Infra
+    - title: Infra IT
       uri: /books/Corp IT Infra/index.html
     - title: 职场英语
       uri: /books/English/index.html
-    - title: 产品岗位
+    - title: 产品
       uri: /books/PO and PM/index.html
-    - title: 美丽生活
+    - title: 生活
       uri: /books/life/index.html
     - title: Python guide
       uri: /books/python/index.html
-    - title: user guide
-      uri: /books/gitsite-guide/index.html
+    - title: 量化交易
+      uri: /books/quant/index.html
+    - title: AI
+      uri: /books/AI/index.html
+    - title: 读书
+      uri: /books/reading/index.html      
     - title: Blogs
       uri: /blogs/tech/index.html
     - title: License
