@@ -1,7 +1,7 @@
 site:
-  title: Bryce's GitSite
-  description: GitSite is a static web site generator for Git.
-  keywords: gitsite, git, static web site, html
+  title: Bryce's 官方网站
+  description: Bryce's books, reading notes, blogs and more.
+  keywords: Bryce, books, reading, blogs, productivity, IT, English, Python, AI, quant, life, PO, PM
   theme: default
   language: en-US
   # set the /<rootPath> pathname under which your site is served
@@ -10,36 +10,36 @@ site:
   # set cdn path:
   cdn-path: https://cdn.jsdelivr.net/npm
   navigation:
-    - title: Productivity
+    - title: 利器
       uri: /books/productivity/index.html
-    - title: Infra IT
-      uri: /books/Corp IT Infra/index.html
-    - title: 职场英语
-      uri: /books/English/index.html
+    - title: 读书
+      uri: /books/reading/index.html  
+    - title: 量化
+      uri: /books/quant/index.html
     - title: 产品
       uri: /books/PO and PM/index.html
+    - title: 英语
+      uri: /books/English/index.html
     - title: 生活
       uri: /books/life/index.html
-    - title: Python guide
-      uri: /books/python/index.html
-    - title: 量化交易
-      uri: /books/quant/index.html
     - title: AI
       uri: /books/AI/index.html
-    - title: 读书
-      uri: /books/reading/index.html      
+    - title: IT
+      uri: /books/Corp IT Infra/index.html
+    - title: Python
+      uri: /books/python/index.html
     - title: Blogs
       uri: /blogs/tech/index.html
-    - title: License
-      uri: /pages/license/index.html
-    - title: Discuss
-      uri: https://github.com/michaelliao/gitsite/discussions
+#   - title: License
+#     uri: /pages/license/index.html
+#   - title: Discuss
+#     uri: https://github.com/michaelliao/gitsite/discussions
       external: true
-  git:
-    base-url: https://github.com/michaelliao/gitsite/blob/main/source
+#  git:
+#    base-url: https://github.com/michaelliao/gitsite/blob/main/source
   contact:
-    name: Michael Liao
-    github: https://github.com/michaelliao/gitsite
+    name: Bryce Li
+    github: https://github.com/abnceo
     twitter: https://twitter.com/liaoxuefeng
   books:
     index-marker: true
