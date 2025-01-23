@@ -1,8 +1,6 @@
 # Git
 
-Git确实是太nb了，简单高效，加上github简直是如虎添翼，一统代码管理的天下，很长时间之内应该都不会有对手。
-
-所以，每个IT人都必须熟练掌握git，否则都不好意思说自己是IT。
+Git确实是太nb了，简单高效，加上github简直是如虎添翼，一统代码管理的天下，很长时间之内应该都不会有对手。所以，每个IT人都必须熟练掌握git。
 
 学习任何技术，最重要的是找到[官网](https://git-scm.com/)。
 
@@ -10,7 +8,8 @@ Git确实是太nb了，简单高效，加上github简直是如虎添翼，一统
 - [git Cheat Sheet](https://training.github.com/downloads/github-git-cheat-sheet/)
 - [github上的官网training文档](https://github.com/githubtraining/training-manual/tree/main/docs)
 - [一目了然的各个阶段和对应命令](https://ndpsoftware.com/git-cheatsheet.html)
-- 最重要的概念图：![git Basic Concept](gitDiagram1.png)
+- 重要的概念图1：![git basic concept](git.png)
+- 重要的概念图2：![git Basic Concept](gitDiagram1.png)
 
 ## git 常用命令 - 日常
 ```python
@@ -26,6 +25,7 @@ Git确实是太nb了，简单高效，加上github简直是如虎添翼，一统
 # 当你有很多文件需要添加时，使用 git add . 可以一次性添加当前目录及其子目录下的所有修改和新增的文件，非常方便。
 >> git commit -m "msg"
 >> git commit -am "msg"
-# -am 可以少一次使用git add命令，针对那些已track的文件
+# -am 针对那些已track的文件,可以少一次使用git add命令
 >> git diff
+# 后面不带参数时，比较的是 workspace和Index之间的区别。
 ```
