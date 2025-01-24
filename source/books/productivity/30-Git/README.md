@@ -48,7 +48,9 @@ Git确实是太nb了，简单高效，加上github简直是如虎添翼，一统
 >> git push -u origin main
 # 这里的-u参数是用来设置上游（跟踪）分支的，这样之后你可以简单地使用git push和git pull而不需要指定分支名。
 >> git pull
+# test git pull
 >> git fetch
+# test git fetch
 
 
 ```
