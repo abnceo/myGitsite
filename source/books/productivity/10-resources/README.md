@@ -7,7 +7,11 @@
 > - 再通过学习，达到 *“知道自己知道”* 的状态。
 
 #### 网站
-
+NB公司的官网或者论坛就是最好的资源，就可以了解到业界最一手的动态：
+- 宇树科技： 
+    - 官网 https://www.unitree.com/cn/opensource
+    - 智能社群资源中心： https://www.unifolm.com/#/resource
+    - 智能社群：https://www.unifolm.com/ 
 
 #### 微信公众号
 - 利器
