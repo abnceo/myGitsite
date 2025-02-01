@@ -8,8 +8,10 @@ Git确实是太nb了，简单高效，加上github简直是如虎添翼，一统
 - [git Cheat Sheet](https://training.github.com/downloads/github-git-cheat-sheet/)
 - [github上的官网training文档](https://github.com/githubtraining/training-manual/tree/main/docs)
 - [一目了然的各个阶段和对应命令](https://ndpsoftware.com/git-cheatsheet.html)
+- 更多的git文档阅读： https://github.com/dictcp/awesome-git 
 - 重要的概念图1：![git basic concept](git.png)
 - 重要的概念图2：![git Basic Concept](gitDiagram1.png)
+
 
 ## git 常用命令 - 日常
 ```python
