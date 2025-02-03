@@ -28,7 +28,9 @@ site:
       uri: /books/Corp IT Infra/index.html
     - title: Python
       uri: /books/python/index.html
-    - title: Blogs
+    - title: Swift
+      uri: /books/Swift/index.html
+    - title: Blog
       uri: /blogs/tech/index.html
     - title: Links
       uri: /pages/links/index.html
