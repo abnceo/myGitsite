@@ -3,13 +3,15 @@
 ### thank you for those inspiring me:
 - https://liaoxuefeng.com/
 - https://lixiaolai.com/
+- https://www.navalmanack.com/
+
 
 ### learn coding
 - https://programminghub.io/
 
 
 ### AI
-- www.baidu.com
+- https://ai-bot.cn/
 
 ### UI
 - [零基础学Sketch -b站【酸梅干超人出品】](https://www.bilibili.com/video/BV1YM411J7wg/?spm_id_from=333.788.videopod.episodes&vd_source=b68b3b58a3aab21e75d31ee72037d8bd&p=4)
@@ -25,3 +27,6 @@
 
 ### 小众媒体：
 - https://topbook.cc/overview
+- https://jandan.net/
+- https://sspai.com/
+- 
