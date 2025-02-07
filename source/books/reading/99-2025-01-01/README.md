@@ -37,3 +37,14 @@
     - 第10章：安全运营
         - SIEM, VM, TI, HP, SOAR, IR, XDR, BAS, ASM
     - 第11章：内控合规
+
+    ---
+    #### 日本 DevOps引入指南研究会 《DevOps入门与实践》
+    - 个人场景DevOps->团队DevOps
+    - 第1章 认识DevOps
+    - 第2章 从个人开始实践DevOps
+    - 第3章 在团队中普及DevOps
+    - 第4章 面向DevOps的架构变革
+    - 第5章 实践基础设施即代码
+    - 第6章 跨越组织和团队见壁垒的DevOps
+    似乎写的不错，值得细细看看。
