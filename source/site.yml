@@ -14,8 +14,8 @@ site:
       uri: /books/productivity/index.html
     - title: 读书
       uri: /books/reading/index.html  
-    - title: 量化
-      uri: /books/quant/index.html
+    - title: 习惯
+      uri: /books/habit/index.html
     - title: 产品
       uri: /books/PO and PM/index.html
     - title: 英语
