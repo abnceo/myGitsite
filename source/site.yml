@@ -16,8 +16,8 @@ site:
       uri: /books/reading/index.html  
     - title: 习惯
       uri: /books/habit/index.html
-    - title: 产品
-      uri: /books/PO and PM/index.html
+#    - title: 产品
+#      uri: /books/PO and PM/index.html
     - title: 英语
       uri: /books/English/index.html
     - title: 生活
