@@ -15,8 +15,8 @@
 
 
 >
-> People always tend to overestimate the effect of a technology or a habit in the short term, 
-> and underestimate the effect in the long term.
+> People always overestimate the change in the short term, 
+> but underestimate the change in the long term.
 >
 
 
