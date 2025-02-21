@@ -34,9 +34,9 @@ site:
       uri: /blogs/tech/index.html
     - title: Links
       uri: /pages/links/index.html
-    - title: Discuss
-      uri: https://github.com/michaelliao/gitsite/discussions
-      external: true
+#    - title: Discuss
+#      uri: https://github.com/michaelliao/gitsite/discussions
+#      external: true
 #  git:
 #    base-url: https://github.com/michaelliao/gitsite/blob/main/source
   contact:

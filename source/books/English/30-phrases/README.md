@@ -1,37 +1,5 @@
 # 高频短语
 
-#### 会议场景
-- Let’s circle back to this later.（我们稍后再讨论这个问题。）
-- I’ll take the lead on this.（我来负责这件事。）
-- Can we table this for now?（我们可以暂时搁置这个问题吗？）
-- Let’s touch base tomorrow.（我们明天再碰个头。）
-
-##### 总结与结束会议
-- Let’s wrap things up.（我们总结一下吧。）
-To recap, we’ve decided to…（总结一下，我们决定…）
-
-Let’s summarize the key takeaways.（我们来总结一下关键点。）
-
-What are our next steps?（我们的下一步是什么？）
-
-I’ll send out a follow-up email with the action items.（我会发一封跟进邮件，列出行动项。）
-
-Let’s touch base again next week.（我们下周再碰个头。）
-
-Thanks everyone for your input.（感谢大家的贡献。）
-
-Let’s call it a day.（我们今天就到这里吧。）
-
-I think we’ve covered everything.（我想我们已经讨论完所有问题了。）
-
-Looking forward to our next meeting.（期待我们的下一次会议。）
-
----
-#### 邮件场景
-- Just a gentle reminder…（只是一个友好的提醒…）
-- Please find attached…（请查收附件…）
-- I’ll keep you posted.（我会随时向你更新进展。）
-- Let me know if you need any further clarification.（如果需要进一步说明，请告诉我。）
 
 #### 项目管理场景
 - We’re behind schedule.（我们的进度落后了。）
