@@ -1,8 +1,9 @@
-# 读书笔记
+# 《Swift5从零到精通iOS开发训练营》
 
-### 《Swift5从零到精通iOS开发训练营》
-- 第1部分 Swift语言基础语法
-    - 数据类型：
+### 第1部分 Swift语言基础语法
+    
+#### 第2章 数据类型：
+
     ```swift
     var a5 = MemoryLayout<UInt>.size // 获取数据类型所占位数，在64位机器上UInt占8字节64位
     var sum = 1.25e3 // 1.25*(10^3)=1250，e表示10的n次方
@@ -48,13 +49,19 @@
     //swift语言使用typealias关键字来实现别名：
     typealias Price = Int // 为Int类型取一个别名Price
     var penPrice:Price = 100
+    ```
 
+#### 第3章 字符/字符串与集合类型
+    ```swift
+    str = String(describe: (1,1.0,true)) // 通过元组构造“（1，1.0，true）
+    str = String(format:"我是%@", "周杰伦")  // 通过格式化字符串构造“我是周杰伦“
+    var c2 = "world"
+    var d2 = "Hello \(c2)"  // "Hello world"
 
     ```
+
+    
 - 第2部分 iOS开发基础
 - 第3部分 实战
 
-
-
-### 《》
 
