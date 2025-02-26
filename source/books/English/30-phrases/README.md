@@ -6,6 +6,8 @@
 - Let’s get the ball rolling.（我们开始吧。）
 - We need to think outside the box.（我们需要跳出思维定式。）
 - This is a low-hanging fruit.（这是一个容易实现的目标。）
+- in the pipeline, 既包括正在进行的项目也包括正在筹备但是还未启动的项目
+    - We have a few new projects in the pipeline for next quarter.
 
 
 #### 电话与沟通场景
