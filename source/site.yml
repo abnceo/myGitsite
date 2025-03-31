@@ -22,6 +22,8 @@ site:
       uri: /books/English/index.html
     - title: 生活
       uri: /books/life/index.html
+    - title: 育儿
+      uri: /books/KidGrow/index.html
     - title: AI
       uri: /books/AI/index.html
     - title: IT
