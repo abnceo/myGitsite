@@ -16,6 +16,8 @@ site:
       uri: /books/think/index.html
     - title: 读书
       uri: /books/reading/index.html  
+    - title: 投资
+      uri: /books/Invest/index.html
 #    - title: 产品
 #      uri: /books/PO and PM/index.html
     - title: 英语
@@ -26,8 +28,8 @@ site:
       uri: /books/KidGrow/index.html
     - title: AI
       uri: /books/AI/index.html
-    - title: IT
-      uri: /books/Corp IT Infra/index.html
+#    - title: IT
+#      uri: /books/Corp IT Infra/index.html
     - title: Python
       uri: /books/python/index.html
     - title: Swift
