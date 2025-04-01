@@ -10,8 +10,7 @@ site:
   # set cdn path:
   cdn-path: https://cdn.jsdelivr.net/npm
   navigation:
-    - title: 利器
-      uri: /books/productivity/index.html
+
     - title: 思考
       uri: /books/think/index.html
     - title: 读书
@@ -22,10 +21,12 @@ site:
 #      uri: /books/PO and PM/index.html
     - title: 英语
       uri: /books/English/index.html
-    - title: 生活
-      uri: /books/life/index.html
     - title: 育儿
       uri: /books/KidGrow/index.html
+    - title: 利器
+      uri: /books/productivity/index.html
+    - title: 时间修行
+      uri: /books/Time/index.html
     - title: AI
       uri: /books/AI/index.html
 #    - title: IT
