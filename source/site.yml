@@ -27,8 +27,8 @@ site:
       uri: /books/productivity/index.html
     - title: 时间修行
       uri: /books/Time/index.html
-    - title: AI
-      uri: /books/AI/index.html
+#    - title: AI
+#      uri: /books/AI/index.html
 #    - title: IT
 #      uri: /books/Corp IT Infra/index.html
     - title: Python
