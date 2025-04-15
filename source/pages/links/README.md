@@ -7,7 +7,7 @@
 
 
 ### learn coding
-- https://programminghub.io/
+- https://programminghub.io/， https://programminghub.io/learn-programming 
 
 
 ### AI
