@@ -24,6 +24,7 @@
 
 #### 冥想
 - 《平静而专注 像青蛙一样坐定》荷兰 Eline Snel 孙承辉译
+- 《正念养育 - 积极的管教，自律的孩子》 美国 Chris White, Shauna Shapiro
 
 #### 执行力
 
