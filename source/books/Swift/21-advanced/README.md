@@ -1,5 +1,31 @@
 # 教程 appcoda.com
 
+### 各章知识点提炼
+- 第11章
+    - Navigation View
+    - Navigating from one view to another
+    - 自定义返回按钮
+    - 去掉 disclosure indicator
+- 第12章
+    - ScrollView
+    - 使用自定义的字体
+    - Customizing the Navigation Bar
+- 第13章
+    - 如何写扩展接口
+    - 自定义 color set
+    - Text建议使用 dynamic type
+    - https://flatuicolors.com/ 挑选颜色
+- 第14章
+    - 使用地图 
+    - guard let
+- 第15章
+    - enum
+    - .background(.ultraThinMaterial)
+    - button, 以及浮出层的控制
+
+
+
+
 ### from https://www.appcoda.com/learnswift/
 - you can hold the option key, and click any variable name to reveal the variable type, deduced by the compiler.
 - press shift+command+enter to execute the code
@@ -39,3 +65,7 @@
     }
     // Even though the names are the same, there are actually two variables in the code above. jobTitle in black is the optional variable, while jobTitle in blue is the temporary constant to be assigned with the optional value.
     ```
+
+#### 比较混淆的地方：
+- The @Binding keyword signifies that the caller is responsible for providing the binding of the state variable. As mentioned earlier, a binding establishes a two-wayconnection between a property and a view that needs to modify the value of thatproperty. 
+- When you annotate a property with @State, SwiftUI automatically stores it somewhere in your application. Furthermore, views thatutilize this property will automatically listen for any changes to its value. 
